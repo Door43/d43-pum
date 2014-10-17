@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pum:home|Door43 (pum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pum|d43-pum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pum/archive/master.zip|d43-pum.zip]]
+
+**Recent Changes**
+{{changes>ns = pum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pum|Ethnologue data]]
+
